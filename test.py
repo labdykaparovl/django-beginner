@@ -1,1 +1,2 @@
-print('Cho tam, dgigiter')
+hello = 'Cho tam, dgigiter'
+print(hello)
